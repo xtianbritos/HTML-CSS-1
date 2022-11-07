@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana;
+}
+
+h2 {
+    color: gray;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+
+th, td {
+    padding: 10px;
+    border:1px solid #000;
+}
+
+th {
+    color: white;
+    background-color: rgb(83, 83, 83);
+}
+
+.gray {
+    background-color: rgb(187, 187, 187);
+}
